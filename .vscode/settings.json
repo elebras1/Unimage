@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "arbrepixel.h": "c",
+        "glib.h": "c",
+        "stack2.h": "c",
+        "stdio.h": "c",
+        "zpixel.h": "c",
+        "gfileutils.h": "c",
+        "math.h": "c",
+        "galloca.h": "c",
+        "gtk.h": "c",
+        "stdint.h": "c",
+        "interface.h": "c"
+    }
+}
